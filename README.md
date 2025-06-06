@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an assembler for the SIC/XE architecture, developed for CS530 Project #2 at San Diego State University. It reads `.sic` source files, performs two-pass assembly, and generates a formatted `.listing` file with object code and symbol resolution.
+This project is an assembler for the SIC/XE architecture. It reads `.sic` source files, performs two-pass assembly, and generates a formatted `.listing` file with object code and symbol resolution.
 
 ## Authors
 
